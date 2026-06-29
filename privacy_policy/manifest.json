@@ -1,6 +1,6 @@
 {
-    "name": "calotrek_privacy",
-    "short_name": "calotrek_privacy",
+    "name": "calotrek_privacy_policy",
+    "short_name": "calotrek_privacy_policy",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
