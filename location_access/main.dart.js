@@ -36572,7 +36572,7 @@ n=r.PQ()
 s=A.a([B.M1],l)
 if(A.cV(a,q,t.w).w.a.a>900)s.push(A.jo(A.a([r.CP("Privacy Policy","https://calotrek.com/privacy_policy"),r.CP("Delete Account","https://calotrek.com/delete_account")],l),B.a9,B.S,B.aB))
 return new A.tt(new A.Da(A.kf(A.a([p,o,m,A.cG(q,A.kf(A.a([B.Hl,new A.eg(B.za,n,q),B.Hd,A.cG(q,A.kf(A.a([A.jo(s,B.a9,B.Dh,B.aB)],l),B.a9,B.S),B.j,q,q,q,q,q,B.jy,q)],l),B.aY,B.S),B.j,q,q,q,q,q,q,q)],l),B.a9,B.S),q),q)},
-PV(a){var s=null,r=A.a7(217,0,0,0),q=t.p,p=A.a([A.jo(A.a([A.a7j(A.e1(12),A.a8q("assets/calotrek_logo2.png",B.be,48,48)),B.H9,A.zY(s,B.M4,B.aM,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.RG(),s,s,s)],q),B.a9,B.S,B.aB),B.Hq],q),o=t.w
+PV(a){var s=null,r=A.a7(217,0,0,0),q=t.p,p=A.a([A.jo(A.a([A.a7j(A.e1(12),A.a8q("assets/calotrek_logo2_official.jpg",B.be,48,48)),B.H9,A.zY(s,B.M4,B.aM,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.RG(),s,s,s)],q),B.a9,B.S,B.aB),B.Hq],q),o=t.w
 if(A.cV(a,s,o).w.a.a>900)B.b.I(p,A.a([new A.eg(B.fi,A.a4t(!1,!0,A.nH("Location Access",B.IV),s,!0,s,s,s,B.R,s,s,s,s,s,new A.RH(this),s,s,s,s),s),B.Ha],q))
 q=A.cV(a,s,o).w.a.a>900?B.M0:B.cY
 o=A.ah4(s,s,B.bG,s,s,s,s,s,s,B.j,s,s,B.z7,s,new A.cc(A.e1(10),B.o),s,s,B.KK,s)
